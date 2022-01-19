@@ -51,7 +51,8 @@ This application does not have front-end built, but it allows you to test routes
 
 ### Demo 🎥
 
-* [Link to Demo]()
+* [Link to Demo](https://watch.screencastify.com/v/8R7YwJrHIAsmIUnVBE3K )
+* [Link to SC](https://drive.google.com/file/d/1h6oQi6QKolYNFC86s1vP8sFzdjsngw31/view?usp=sharing)
 
 ### GitHub 
 
